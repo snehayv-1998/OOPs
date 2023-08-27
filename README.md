@@ -21,5 +21,25 @@ II Pillars Of OOPs
 2.4 Abstraction  
   
 III Generics  
+Type Parameters in Java Generics  
+Wildcards With Generics  
+Bounded Generics  
+Difference b/w type parameter and wild card  
+Type Erasure  
+Type Inference  
+Generics and Primitive Data Types  
+Advantages  
   
-IV Collection FrameWork
+IV Exceptions  
+4.1 Checked Exception:  
+4.2 Unchecked Exception:  
+4.3 Error:  
+4.4 try catch:  
+4.5 Finally block:  
+  
+V Collection FrameWork  
+  
+VI Object Cloning  
+6.1 Shallow Clone  
+6.2 Deep Clone  
+
