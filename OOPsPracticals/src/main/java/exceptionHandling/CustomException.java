@@ -1,4 +1,4 @@
-package ExceptionHandling;
+package exceptionHandling;
 
 public class CustomException extends Exception{
     CustomException(String message){
